@@ -1,4 +1,4 @@
-# music_sql_project
+# Music_SQL_Project
 
 Music Database SQL Analysis Project
 This project showcases advanced SQL data exploration and reporting on a relational music database (modeled after the classic Chinook/record store schema).
